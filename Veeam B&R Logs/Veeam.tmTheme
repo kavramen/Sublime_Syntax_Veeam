@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Veeam</string>
+	<key>settings</key>
+	<array>
+
+		<dict>
+			<key>name</key>
+			<string>errors</string>
+			<key>scope</key>
+			<string>errors</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#F92672</string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#F8F8F0</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>strings</string>
+			<key>scope</key>
+			<string>strings</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E6DB74</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>timestamps</string>
+			<key>scope</key>
+			<string>timestamps</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#AE81FF</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>agent.lines</string>
+			<key>scope</key>
+			<string>agent.lines</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66D9EF</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>comments</string>
+			<key>scope</key>
+			<string>comments</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#75715E</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>important.events</string>
+			<key>scope</key>
+			<string>important.events</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Needname</string>
+			<key>scope</key>
+			<string>needname</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
+
+	</array>
+	<key>uuid</key>
+	<string>D8D5E82E-3D5B-46B5-HUD6-8C841C21347D</string>
+</dict>
+</plist>
